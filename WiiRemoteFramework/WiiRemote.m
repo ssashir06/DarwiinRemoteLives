@@ -1094,8 +1094,8 @@ typedef enum {
 		_lowZ = _lowZ * 0.9 + accZ * 0.1;
 		_lowX = _lowX * 0.9 + accX * 0.1;
 		
-		float absx = fabsf (_lowX - WIR_HALFRANGE);
-		float absz = fabsf (_lowZ - WIR_HALFRANGE);
+		float absx = fabs (_lowX - WIR_HALFRANGE);
+		float absz = fabs (_lowZ - WIR_HALFRANGE);
 		
 		if (orientation == 0 || orientation == 2) absx -= WIR_INTERVAL;
 		if (orientation == 1 || orientation == 3) absz -= WIR_INTERVAL;

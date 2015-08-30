@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>78D14211-9B9A-449C-B60A-A10307CA4880</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WiiRemote</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6A4FACFBB85E5058E43601D53A08FFB52978DD0A</key>
+		<string>https://github.com/ssashir06/DarwiinRemoteLives.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WiiRemote.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6A4FACFBB85E5058E43601D53A08FFB52978DD0A</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ssashir06/DarwiinRemoteLives.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6A4FACFBB85E5058E43601D53A08FFB52978DD0A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6A4FACFBB85E5058E43601D53A08FFB52978DD0A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DarwiinRemoteLives</string>
+		</dict>
+	</array>
+</dict>
+</plist>
